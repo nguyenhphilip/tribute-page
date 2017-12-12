@@ -15,12 +15,13 @@ body {
     margin: 0 auto;
 }
 
-h1, h2 {
+h1 {
     margin: 40px 0 10px 0;
 }
 
-h3 {
-     margin: 15px 0 15px 0;
+
+h2, h3 {
+     margin: 10px 0 10px 0;
 }
 
 #sub {
@@ -47,9 +48,6 @@ p {
     margin-bottom: 1.0em;
 }
 
-ul {
-    margin-bottom: 1.5em;
-}
 
 a {
     text-decoration: none;
