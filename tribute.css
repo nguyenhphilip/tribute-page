@@ -1,0 +1,56 @@
+body {
+    font-size: 18px;
+}
+
+#container {
+    width:750px;
+    margin: 20px auto;
+    border: solid;
+    text-align: center;
+    padding: 0;
+}
+
+#content {
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    margin: 40px 0 10px 0;
+}
+
+h3 {
+     margin: 15px 0 15px 0;
+}
+
+#sub {
+    margin-bottom: 15px; 
+}
+
+#center-image {
+    display: inline-block;
+    padding: 0;
+}
+
+blockquote {
+    margin: 20px auto;
+    line-height: 1.2em; 
+}
+
+#author {
+    line-height: 2.0em;
+}
+
+p {
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 1.0em;
+}
+
+ul {
+    margin-bottom: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
